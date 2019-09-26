@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarves)
   
-  dawrves = "Dopey", "Grumpy", "Bashful", "Sleepy".each_line
+  dawrves = "Dopey", "Grumpy", "Bashful", "Sleepy".each
 end
 
 def summon_captain_planet# code an argument here
