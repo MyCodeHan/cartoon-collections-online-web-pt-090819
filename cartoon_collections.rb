@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarves)
-  puts ["Grumpy", "Dopey", "Bashful", "Sleepy"].match
-end
+  puts "Grumpy", "Dopey", "Bashful", "Sleepy".match
+
 end
 
 def summon_captain_planet# code an argument here
