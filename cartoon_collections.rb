@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarves).new
+def roll_call_dwarves(dwarves)
   puts ["Grumpy", "Dopey", "Bashful", "Sleepy"].each_with_index
 end
 
